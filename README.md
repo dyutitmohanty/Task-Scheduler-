@@ -1,5 +1,5 @@
 # Task-Scheduler-
-Round-robin task scheduler from scratch for STM32
+Round-robin task scheduler from scratch for STM32 using Bare-metal C
 
 ## Task Descriptions
 
